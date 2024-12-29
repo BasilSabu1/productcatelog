@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 15 Pro",
+        "image": "assets/images/product1.jpg",
+        "specifications": "6.1-inch display, A17 Pro chip, 128GB storage, 48MP camera",
+        "price": "$999.99",
+        "category": "Smartphones"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23 Ultra",
+        "image": "assets/images/product2.jpg",
+        "specifications": "6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 2, 12GB RAM, 200MP camera",
+        "price": "$1,199.99",
+        "category": "Smartphones"
+    },
+    {
+        "id": 3,
+        "name": "Sony PlayStation 5",
+        "image": "assets/images/product3.webp",
+        "specifications": "Ultra HD, 825GB SSD, 4K gaming, DualSense wireless controller",
+        "price": "$499.99",
+        "category": "Gaming Consoles"
+    },
+    {
+        "id": 4,
+        "name": "Dell XPS 13 Laptop",
+        "image": "assets/images/product4.jpg",
+        "specifications": "13.4-inch Full HD display, Intel Core i7, 16GB RAM, 512GB SSD",
+        "price": "$1,299.99",
+        "category": "Laptops"
+    },
+    {
+        "id": 5,
+        "name": "Bose QuietComfort 45 Headphones",
+        "image": "assets/images/product5.jpeg",
+        "specifications": "Active noise cancelling, 24 hours battery life, Bluetooth connectivity",
+        "price": "$329.99",
+        "category": "Headphones"
+    },
+    {
+        "id": 6,
+        "name": "Nike Air Max 2024 Sneakers",
+        "image": "assets/images/product6.jpg",
+        "specifications": "Men's running sneakers, breathable mesh, cushioned sole, various colors",
+        "price": "$129.99",
+        "category": "Footwear"
+    },
+    {
+        "id": 7,
+        "name": "Canon EOS 5D Mark IV DSLR",
+        "image": "assets/images/product7.jpg",
+        "specifications": "30.4MP Full-frame sensor, 4K video, 61-point autofocus",
+        "price": "$2,499.99",
+        "category": "Cameras"
+    },
+    {
+        "id": 8,
+        "name": "Apple MacBook Pro 16-inch",
+        "image": "assets/images/product8.jpg",
+        "specifications": "16-inch Retina display, M1 Pro chip, 32GB RAM, 1TB SSD",
+        "price": "$2,499.99",
+        "category": "Laptops"
+    },
+    {
+        "id": 9,
+        "name": "GoPro HERO 11 Black",
+        "image": "assets/images/product9.webp",
+        "specifications": "5.3K video resolution, HyperSmooth 5.0, waterproof, 23MP photo",
+        "price": "$399.99",
+        "category": "Cameras"
+    },
+    {
+        "id": 10,
+        "name": "Samsung QLED 65-inch TV",
+        "image": "assets/images/product10.jpg",
+        "specifications": "4K resolution, Quantum HDR, Smart TV, Alexa and Google Assistant integration",
+        "price": "$1,499.99",
+        "category": "Televisions"
+    },
+    {
+        "id": 11,
+        "name": "Fitbit Charge 6 Fitness Tracker",
+        "image": "assets/images/product11.jpg",
+        "specifications": "Built-in GPS, 24/7 heart rate monitor, sleep tracking, 7-day battery life",
+        "price": "$149.99",
+        "category": "Fitness Trackers"
+    },
+    {
+        "id": 12,
+        "name": "iRobot Roomba i7+ Vacuum",
+        "image": "assets/images/product12.jpg",
+        "specifications": "Smart mapping, automatic dirt disposal, Wi-Fi connectivity, voice control",
+        "price": "$799.99",
+        "category": "Home Appliances"
+    }
+]
